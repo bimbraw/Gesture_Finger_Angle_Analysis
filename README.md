@@ -5,6 +5,8 @@ plays one recording session with the ultrasound video (viridis, log-scaled) on
 the left, and on the right a 3D robotic hand above the four MCP joint-angle
 traces, all driven by the recorded angles, with Play, Frame, and Rate controls.
 
+<img width="958" height="499" alt="image" src="https://github.com/user-attachments/assets/aa005abf-26ae-4a2a-840c-3fdafff5ba15" />
+
 ## Dataset
 
 Download from Zenodo: https://doi.org/10.5281/zenodo.21825018
