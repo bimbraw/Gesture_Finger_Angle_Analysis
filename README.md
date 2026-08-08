@@ -1,8 +1,9 @@
 # Gesture_Finger_Angle_Analysis
 
 Reference code to visualize the forearm ultrasound and finger-angle dataset. It
-plays one recording session as an ultrasound video (viridis, log-scaled) next to
-the four MCP joint-angle traces and a simple 3D hand driven by those angles.
+plays one recording session with the ultrasound video (viridis, log-scaled) on
+the left, and on the right a 3D robotic hand above the four MCP joint-angle
+traces, all driven by the recorded angles, with Play, Frame, and Rate controls.
 
 ## Dataset
 
